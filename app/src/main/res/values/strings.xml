@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UniMate</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="courses_code">
+        <item>Course Code</item>
+        <item>CSE4211</item>
+        <item>CSE4212</item>
+        <item>CSE4231</item>
+        <item>CSE4221</item>
+        <item>CSE4222</item>
+    </string-array>
+</resources>
